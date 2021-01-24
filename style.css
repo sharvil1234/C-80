@@ -1,0 +1,29 @@
+/*Button One Styles*/
+#btn-one{
+    border-radius: 50px;
+}
+
+#btn-one:hover{
+    transform: scale(0.9);
+}
+
+/*Button Two Styles*/
+
+#btn-two{
+    border-radius: 50px;
+}
+
+#btn-two:hover{
+    transform: scale(0.9);
+}
+
+/*Master Styles*/
+
+div{
+    margin: 10px;
+    width: 48%;
+}
+#showParagraph1 , #showParagraph2{
+    width: 100%;
+    margin: 10px;
+}
